@@ -7,7 +7,12 @@ package if1.pkg10119025.latihan18.kelipatan;
 
 /**
  *
- * @author User
+ * @author user
+ * NAMA     : ADHIRA FAHRI GATHAN
+ * KELAS    : PBO
+ * NIM      : 10119025
+ * Deskripsi Program : Program ini berisi program untuk menampilkan program
+ *                     kelipatan
  */
 public class IF110119025Latihan18Kelipatan {
     static double kelipatan = 3.5;
